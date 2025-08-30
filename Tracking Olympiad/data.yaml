@@ -1,0 +1,5 @@
+train: /home/hpc/ptfs/ptfs272h/Traco/dataset/train/images
+val:   /home/hpc/ptfs/ptfs272h/Traco/dataset/val/images
+
+nc: 1
+names: ['hexbug_head']
