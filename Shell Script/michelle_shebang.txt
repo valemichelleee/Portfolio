@@ -1,0 +1,6 @@
+1. Aufgabe von #! und wozu es gut ist
+Ein Hinweis auf den Typ der Datei geben, damit UNIX ohne Filename Extensions auskommt. Unmittelbar nach dem Shebang folgt der Aufruf des Interpreters inklusive Pfad.
+
+2. Dieses Konstrukt heißt Shebang
+
+3. Magic Number
